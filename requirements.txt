@@ -1,0 +1,9 @@
+astropy==6.1.0
+astroquery==0.4.7
+Flask==3.0.3
+imutils==0.5.4
+numpy==2.1.1
+picamera2==0.3.18
+Requests==2.32.3
+opencv-python==4.10.0.84
+DateTime==5.5 

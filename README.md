@@ -4,7 +4,7 @@
 
 ## Hardware Requirements
 
-<img title="" src="file:///home/giovs/Gianni/Projects/Python/Astro_Unique/README_files/photo_2024-09-04_22-07-13.jpg" alt="photo_2024-09-04_22-07-13.jpg" width="380" data-align="center">
+<img title="" src="README_files/photo_2024-09-04_22-07-13.jpg" alt="photo_2024-09-04_22-07-13.jpg" width="380" data-align="center">
 
 This software is specifically designed for **Raspberry PI 4 B** single-board computer and **Pi Camera**. Despite of this, it should be executable on any other single-board computer.
 

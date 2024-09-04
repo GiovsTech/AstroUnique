@@ -46,7 +46,7 @@ They can look like a few things, but in a near future more feature will come out
 
 For an example:
 
-- [ ] Using APIs to move your telescope engines to follow celestial bodies postion: in progess
+- [ ] Using APIs to move your telescope engines to follow celestial bodies position: in progess
 
 - [ ] Web Database Catalog: a simple GUI to see the reports of your database catalog (Now it's simply a txt file with some information): in progess
 

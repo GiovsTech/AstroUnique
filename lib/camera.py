@@ -56,7 +56,7 @@ class VideoCamera(object):
                 skycoord_f = pickle.load(data_storage)
                 astro_search_star(skycoord_f, file_tmp, file1)
             data_storage.close()
-        cv.imwrite(str(self.photo_string + "_" + today_date + self.file_type), frame)
+        cv.imwrite(str( "photos/" + self.photo_string + "_" + today_date + self.file_type), frame)
     
     def take_timelapse(self, sec, hour):
         dateraw= datetime.now()
